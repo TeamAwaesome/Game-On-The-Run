@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\America-map.xnb</Output>
-      <Time>2016-02-25T13:09:55.0948287+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\America-map.xnb</Output>
+      <Time>2016-03-15T09:57:09.7635871+00:00</Time>
     </Item>
     <Item>
       <Source>Horse(RunningState).png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse(RunningState).xnb</Output>
-      <Time>2016-02-25T13:09:54.9278287+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse(RunningState).xnb</Output>
+      <Time>2016-03-15T09:57:09.9455871+00:00</Time>
     </Item>
     <Item>
       <Source>lawmen and nativeAmericans(Riding State).png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\lawmen and nativeAmericans(Riding State).xnb</Output>
-      <Time>2016-02-25T13:09:54.9648287+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\lawmen and nativeAmericans(Riding State).xnb</Output>
+      <Time>2016-03-15T09:57:11.2095871+00:00</Time>
     </Item>
     <Item>
       <Source>mexicans-and-bountyHunters(Riding-State).png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\mexicans-and-bountyHunters(Riding-State).xnb</Output>
-      <Time>2016-02-25T13:09:54.9998287+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\mexicans-and-bountyHunters(Riding-State).xnb</Output>
+      <Time>2016-03-15T09:57:11.2205871+00:00</Time>
     </Item>
     <Item>
       <Source>playerCharacters(RidingState).png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\playerCharacters(RidingState).xnb</Output>
-      <Time>2016-02-25T13:09:55.0308287+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\playerCharacters(RidingState).xnb</Output>
+      <Time>2016-03-15T09:57:11.3035871+00:00</Time>
     </Item>
     <Item>
       <Source>rock(Obstacle).png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\rock(Obstacle).xnb</Output>
-      <Time>2016-02-25T13:09:55.0648287+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\rock(Obstacle).xnb</Output>
+      <Time>2016-03-15T09:57:11.3115871+00:00</Time>
     </Item>
     <Item>
       <Source>Horse_sprite.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse_sprite.xnb</Output>
-      <Time>2016-03-01T09:28:17.5112549+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse_sprite.xnb</Output>
+      <Time>2016-03-15T09:57:09.9555871+00:00</Time>
     </Item>
     <Item>
       <Source>utahBackground.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\utahBackground.xnb</Output>
-      <Time>2016-03-01T09:42:13.6138012+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\utahBackground.xnb</Output>
+      <Time>2016-03-15T09:57:11.3205871+00:00</Time>
     </Item>
     <Item>
       <Source>Utahground.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahground.xnb</Output>
-      <Time>2016-03-03T12:39:53.8026628+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahground.xnb</Output>
+      <Time>2016-03-15T10:26:09.0073052+00:00</Time>
     </Item>
     <Item>
       <Source>Butch-on-Horse(OriginalSize).png</Source>
@@ -88,17 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Butch-on-Horse(OriginalSize).xnb</Output>
-      <Time>2016-03-01T10:22:54.9106401+00:00</Time>
-    </Item>
-    <Item>
-      <Source>EXPLOSIONS.png</Source>
-      <Name>EXPLOSIONS</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\EXPLOSIONS.xnb</Output>
-      <Time>2016-03-01T10:40:05.4451654+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Butch-on-Horse(OriginalSize).xnb</Output>
+      <Time>2016-03-15T09:57:09.8775871+00:00</Time>
     </Item>
     <Item>
       <Source>Utahsky.png</Source>
@@ -106,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahsky.xnb</Output>
-      <Time>2016-03-08T09:43:48.8876638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahsky.xnb</Output>
+      <Time>2016-03-15T10:26:09.0697048+00:00</Time>
     </Item>
     <Item>
       <Source>Wyomingsky.png</Source>
@@ -115,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingsky.xnb</Output>
-      <Time>2016-03-08T10:45:43.5986638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingsky.xnb</Output>
+      <Time>2016-03-15T10:26:09.2101039+00:00</Time>
     </Item>
     <Item>
       <Source>Nevadasky.png</Source>
@@ -124,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadasky.xnb</Output>
-      <Time>2016-03-03T13:26:25.7977896+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadasky.xnb</Output>
+      <Time>2016-03-15T09:57:10.0095871+00:00</Time>
     </Item>
     <Item>
       <Source>Boliviasky.png</Source>
@@ -133,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviasky.xnb</Output>
-      <Time>2016-03-03T13:31:00.7232794+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviasky.xnb</Output>
+      <Time>2016-03-15T09:57:09.8375871+00:00</Time>
     </Item>
     <Item>
       <Source>Boliviaclouds.png</Source>
@@ -142,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaclouds.xnb</Output>
-      <Time>2016-03-03T13:46:24.711669+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaclouds.xnb</Output>
+      <Time>2016-03-15T10:26:07.8645125+00:00</Time>
     </Item>
     <Item>
       <Source>Wyomingground.png</Source>
@@ -151,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingground.xnb</Output>
-      <Time>2016-03-03T13:58:33.0539073+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingground.xnb</Output>
+      <Time>2016-03-15T10:26:09.1321044+00:00</Time>
     </Item>
     <Item>
       <Source>Bolivia.png</Source>
@@ -160,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Bolivia.xnb</Output>
-      <Time>2016-03-08T09:25:14.6088092+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Bolivia.xnb</Output>
+      <Time>2016-03-15T10:26:05.1217298+00:00</Time>
     </Item>
     <Item>
       <Source>Boliviaback.png</Source>
@@ -169,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaback.xnb</Output>
-      <Time>2016-03-08T09:53:18.5176638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaback.xnb</Output>
+      <Time>2016-03-15T10:26:05.870525+00:00</Time>
     </Item>
     <Item>
       <Source>Nevadaback.png</Source>
@@ -178,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaback.xnb</Output>
-      <Time>2016-03-08T10:05:56.8886638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaback.xnb</Output>
+      <Time>2016-03-15T10:26:07.8801124+00:00</Time>
     </Item>
     <Item>
       <Source>Nevadaground.png</Source>
@@ -187,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaground.xnb</Output>
-      <Time>2016-03-08T10:10:20.9486638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaground.xnb</Output>
+      <Time>2016-03-15T10:26:07.9113122+00:00</Time>
     </Item>
     <Item>
       <Source>Newmexicoground.png</Source>
@@ -196,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoground.xnb</Output>
-      <Time>2016-03-08T10:19:52.2936638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoground.xnb</Output>
+      <Time>2016-03-15T10:26:07.9581119+00:00</Time>
     </Item>
     <Item>
       <Source>Newmexicoback.png</Source>
@@ -205,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoback.xnb</Output>
-      <Time>2016-03-08T10:23:56.1846638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoback.xnb</Output>
+      <Time>2016-03-15T10:26:07.9269121+00:00</Time>
     </Item>
     <Item>
       <Source>Newmexicosky.png</Source>
@@ -214,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicosky.xnb</Output>
-      <Time>2016-03-08T10:30:51.1826638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicosky.xnb</Output>
+      <Time>2016-03-15T10:26:08.880506+00:00</Time>
     </Item>
     <Item>
       <Source>Wyomingback.png</Source>
@@ -223,8 +214,44 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingback.xnb</Output>
-      <Time>2016-03-08T10:40:26.6966638+00:00</Time>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingback.xnb</Output>
+      <Time>2016-03-15T10:26:09.1009046+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Argentinaback.png</Source>
+      <Name>Argentinaback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Argentinaback.xnb</Output>
+      <Time>2016-03-15T10:26:03.1229426+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Argentinaground.png</Source>
+      <Name>Argentinaground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Argentinaground.xnb</Output>
+      <Time>2016-03-15T10:26:03.1541424+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Argentinasky.png</Source>
+      <Name>Argentinasky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Argentinasky.xnb</Output>
+      <Time>2016-03-15T10:26:03.1853422+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Utahback.png</Source>
+      <Name>Utahback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahback.xnb</Output>
+      <Time>2016-03-15T10:26:08.9741054+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -232,10 +259,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKidContent\</RootDirectory>
-      <LoggerRootDirectory>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\</LoggerRootDirectory>
-      <IntermediateDirectory>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKidContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKidContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKidContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

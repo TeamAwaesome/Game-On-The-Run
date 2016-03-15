@@ -102,13 +102,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EXPLOSIONS.png">
-      <Name>EXPLOSIONS</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Utahsky.png">
       <Name>Utahsky</Name>
       <Importer>TextureImporter</Importer>
@@ -202,6 +195,28 @@
   <ItemGroup>
     <Compile Include="Wyomingback.png">
       <Name>Wyomingback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Argentinaback.png">
+      <Name>Argentinaback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Argentinaground.png">
+      <Name>Argentinaground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Argentinasky.png">
+      <Name>Argentinasky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Utahback.png">
+      <Name>Utahback</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

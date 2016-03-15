@@ -29,3 +29,37 @@ H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid
 H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoback.xnb
 H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicosky.xnb
 H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingback.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\America-map.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse(RunningState).xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\lawmen and nativeAmericans(Riding State).xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\mexicans-and-bountyHunters(Riding-State).xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\playerCharacters(RidingState).xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\rock(Obstacle).xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse_sprite.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\utahBackground.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahground.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Butch-on-Horse(OriginalSize).xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahsky.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingsky.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadasky.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviasky.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaclouds.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingground.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Bolivia.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaback.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaback.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaground.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoground.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoback.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicosky.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingback.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\ButchCassidyandSundanceKid.exe
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\ButchCassidyandSundanceKid.pdb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.csprojResolveAssemblyReference.cache
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.exe
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.pdb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Argentinaback.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Argentinaground.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Argentinasky.xnb
+E:\Game-On-The-Run\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahback.xnb

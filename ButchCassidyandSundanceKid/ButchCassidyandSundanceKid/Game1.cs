@@ -44,6 +44,7 @@ namespace ButchCassidyandSundanceKid
         Background_Ground Wyomingsky;
 
         Background_Ground Utah;
+        Background_Ground Utahback;
         Background_Ground Utahsky;
 
         Background_Ground Nevada;
@@ -59,6 +60,10 @@ namespace ButchCassidyandSundanceKid
         Background_Ground Boliviasky;
         Background_Ground Boliviaclouds;
 
+        Background_Ground Argentina;
+        Background_Ground Argentinaback;
+        Background_Ground Argentinasky;
+
         GamePadState Padstate;
 
         public Game1()
@@ -73,7 +78,7 @@ namespace ButchCassidyandSundanceKid
         protected override void Initialize()
         {
 
-            state = Gamestate.Level3;
+            state = Gamestate.Level6;
 
             base.Initialize();
         }
@@ -91,20 +96,25 @@ namespace ButchCassidyandSundanceKid
             Wyomingsky = new Background_Ground(Content.Load<Texture2D>("Wyomingsky"), 0, -100, 1);
 
             Utah = new Background_Ground(Content.Load<Texture2D>("Utahground"), 0, 300, 4);
+            Utahback = new Background_Ground(Content.Load<Texture2D>("Utahback"), 0, 50, 2);
             Utahsky = new Background_Ground(Content.Load<Texture2D>("Utahsky"), 0, -100, 1);
 
             Nevada = new Background_Ground(Content.Load<Texture2D>("Nevadaground"), 0, 300, 4);
             Nevadaback = new Background_Ground(Content.Load<Texture2D>("Nevadaback"), 0, 100, 2);
             Nevadasky = new Background_Ground(Content.Load<Texture2D>("Nevadasky"), 0, -100, 0);
 
-            Newmexico = new Background_Ground(Content.Load<Texture2D>("Newmexicoback"), 0, 000, 2);
-            Newmexicoback = new Background_Ground(Content.Load<Texture2D>("Newmexicoground"), 0, 300, 4);
-            Newmexicosky = new Background_Ground(Content.Load<Texture2D>("Newmexicosky"), 0, 0, 0);
+            Newmexico = new Background_Ground(Content.Load<Texture2D>("Newmexicoground"), 0, 300, 4);
+            Newmexicoback = new Background_Ground(Content.Load<Texture2D>("Newmexicoback"), 0, 0, 2);
+            Newmexicosky = new Background_Ground(Content.Load<Texture2D>("Newmexicosky"), 0, -100, 0);
 
             Bolivia = new Background_Ground(Content.Load<Texture2D>("Bolivia"), 0, 300, 4);
             Boliviaback = new Background_Ground(Content.Load<Texture2D>("Boliviaback"), 0, -20, 2);
             Boliviasky = new Background_Ground(Content.Load<Texture2D>("Boliviasky"), 0, -100, 0);
             Boliviaclouds = new Background_Ground(Content.Load<Texture2D>("Boliviaclouds"), 0, 0, 1);
+
+            Argentina = new Background_Ground(Content.Load<Texture2D>("Argentinaground"), 0, 300, 4);
+            Argentinaback = new Background_Ground(Content.Load<Texture2D>("Argentinaback"), 0, 50, 2);
+            Argentinasky = new Background_Ground(Content.Load<Texture2D>("Argentinasky"), 0, -100, 0);
             #endregion
         }
 
@@ -131,6 +141,7 @@ namespace ButchCassidyandSundanceKid
             Wyomingsky.updateme();
 
             Utah.updateme();
+            Utahback.updateme();
             Utahsky.updateme();
 
             Nevada.updateme();
@@ -145,6 +156,10 @@ namespace ButchCassidyandSundanceKid
             Boliviaback.updateme();
             Boliviasky.updateme();
             Boliviaclouds.updateme();
+
+            Argentina.updateme();
+            Argentinaback.updateme();
+            Argentinasky.updateme();
             #endregion
 
             base.Update(gameTime);
@@ -168,6 +183,7 @@ namespace ButchCassidyandSundanceKid
             else if (state == Gamestate.Level2)
             {
                 Utahsky.drawme(spriteBatch);
+                Utahback.drawme(spriteBatch);
                 Utah.drawme(spriteBatch);
             }
             else if (state == Gamestate.Level3)
@@ -191,8 +207,9 @@ namespace ButchCassidyandSundanceKid
             }
             else if (state == Gamestate.Level6)
             {
-                Utahsky.drawme(spriteBatch);
-                Utah.drawme(spriteBatch);
+                Argentinasky.drawme(spriteBatch);
+                Argentinaback.drawme(spriteBatch);
+                Argentina.drawme(spriteBatch);
             }
             Horse.drawme(spriteBatch, gameTime);
             

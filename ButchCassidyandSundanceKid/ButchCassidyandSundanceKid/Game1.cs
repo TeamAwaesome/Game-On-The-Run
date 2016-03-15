@@ -36,7 +36,7 @@ namespace ButchCassidyandSundanceKid
 
         Gamestate state;
 
-        Player Horse;
+        Player horse;
 
 
         Background_Ground Wyoming;
@@ -59,12 +59,27 @@ namespace ButchCassidyandSundanceKid
         Background_Ground Boliviasky;
         Background_Ground Boliviaclouds;
 
+        List<Rock> rock;
+        List<Cactus> cactus;
+        List<Shrub> shrub;
+
+        int randomRock;
+        int rockTimer;
+        int randomCactus;
+        int cactusTimer;
+        int randomShrub;
+        int shrubTimer;
+
+        public static readonly Random RNG = new Random();
+
         GamePadState Padstate;
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            IsMouseVisible = true;
+
 
             graphics.PreferredBackBufferHeight = 600;
             graphics.PreferredBackBufferWidth = 800;
@@ -73,7 +88,17 @@ namespace ButchCassidyandSundanceKid
         protected override void Initialize()
         {
 
-            state = Gamestate.Level3;
+            state = Gamestate.Level2;
+            rock = new List<Rock>();
+            cactus = new List<Cactus>();
+            shrub = new List<Shrub>();
+
+            rockTimer = 50;
+            randomRock = 200;
+            cactusTimer = 200;
+            randomCactus = 400;
+            shrubTimer = 150;
+            randomShrub = 300;
 
             base.Initialize();
         }
@@ -83,7 +108,7 @@ namespace ButchCassidyandSundanceKid
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            Horse = new Player(Content.Load<Texture2D>("Butch-on-Horse(OriginalSize)"),500,500, 24);
+            horse = new Player(Content.Load<Texture2D>("Butch-on-Horse(OriginalSize)"),500,500, 24);
 
             #region Backgrounds
             Wyoming = new Background_Ground(Content.Load<Texture2D>("Wyomingground"), 0, 300, 4);
@@ -106,6 +131,12 @@ namespace ButchCassidyandSundanceKid
             Boliviasky = new Background_Ground(Content.Load<Texture2D>("Boliviasky"), 0, -100, 0);
             Boliviaclouds = new Background_Ground(Content.Load<Texture2D>("Boliviaclouds"), 0, 0, 1);
             #endregion
+            for (int i = 0; i < 2; i++)
+                Content.Load<Texture2D>("rockfixed");
+            for (int i = 0; i < 2; i++)
+                Content.Load<Texture2D>("Shrubfixed");
+            for (int i = 0; i < 2; i++)
+                Content.Load<Texture2D>("Cactusfixed");
         }
 
 
@@ -123,8 +154,64 @@ namespace ButchCassidyandSundanceKid
 
             Padstate = GamePad.GetState(PlayerIndex.One);
 
-            Horse.updateme(Padstate);
+            horse.updateme(Padstate);
+            #region obstacles
 
+            for (int i = 0; i < rock.Count; i++)
+                rock[i].updateme();
+            rockTimer--;
+            if (rockTimer <= 0)
+            {
+                randomRock = RNG.Next(300, 530);
+                rockTimer = RNG.Next(300, 800);
+                rock.Add(new Rock(Content.Load<Texture2D>("rockfixed"), 850, randomRock));          
+            }
+
+            for (int i = 0; i < shrub.Count; i++)
+                shrub[i].updateme();
+            shrubTimer--;
+            if (shrubTimer <= 0)
+            {
+                randomShrub = RNG.Next(300, 530);
+                shrubTimer = RNG.Next(300, 800);
+                shrub.Add(new Shrub(Content.Load<Texture2D>("Shrubfixed"), 850, randomShrub));
+            }
+
+            for (int i = 0; i < cactus.Count; i++)
+                cactus[i].updateme();
+            cactusTimer--;
+            if (cactusTimer <= 0)
+            {
+                randomCactus = RNG.Next(300, 530);
+                cactusTimer = RNG.Next(300, 800);
+                cactus.Add(new Cactus(Content.Load<Texture2D>("Cactusfixed"), 850, randomCactus));
+            }
+
+            for (int i = 0; i < rock.Count; i++)
+            {
+                if (rock[i].R_pos.X <= -30)
+                {
+                    rock.RemoveAt(i);
+                }
+            } 
+            for (int i = 0; i < shrub.Count; i++)
+            {
+                if (shrub[i].S_pos.X <= -30)
+                {
+                    shrub.RemoveAt(i);
+                }
+            }
+            for (int i = 0; i < cactus.Count; i++)
+            {
+                if (cactus[i].C_pos.X <= -30)
+                {
+                    cactus.RemoveAt(i);
+                }
+            }
+
+
+
+            #endregion
             #region Background
             Wyoming.updateme();
             Wyomingback.updateme();
@@ -146,6 +233,27 @@ namespace ButchCassidyandSundanceKid
             Boliviasky.updateme();
             Boliviaclouds.updateme();
             #endregion
+            for(int i = 0; i<rock.Count;i++)
+            {
+                if (horse.P_collisionRect.Intersects(rock[i].R_collisionRect))
+                {
+                    rock.RemoveAt(i);
+                }
+            }
+            for (int i = 0; i < cactus.Count; i++)
+            {
+                if (horse.P_collisionRect.Intersects(cactus[i].C_collisionRect))
+                {
+                    cactus.RemoveAt(i);
+                }
+            }
+            for (int i = 0; i < shrub.Count; i++)
+            {
+                if (horse.P_collisionRect.Intersects(shrub[i].S_collisionRect))
+                {
+                    shrub.RemoveAt(i);
+                }
+            }
 
             base.Update(gameTime);
         }
@@ -155,6 +263,8 @@ namespace ButchCassidyandSundanceKid
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             spriteBatch.Begin();
+
+           #region Rossdraw
             if (state == Gamestate.Main)
             {
                 
@@ -164,23 +274,47 @@ namespace ButchCassidyandSundanceKid
                 Wyomingsky.drawme(spriteBatch);
                 Wyomingback.drawme(spriteBatch);
                 Wyoming.drawme(spriteBatch);
+                for (int i = 0; i < rock.Count; i++)
+                    rock[i].drawme(spriteBatch);
+                for (int i = 0; i < shrub.Count; i++)
+                    shrub[i].drawme(spriteBatch);
+                for (int i = 0; i < cactus.Count; i++)
+                    cactus[i].drawme(spriteBatch);
             }
             else if (state == Gamestate.Level2)
             {
                 Utahsky.drawme(spriteBatch);
                 Utah.drawme(spriteBatch);
+                for (int i = 0; i < rock.Count; i++)
+                    rock[i].drawme(spriteBatch);
+                for (int i = 0; i < shrub.Count; i++)
+                    shrub[i].drawme(spriteBatch);
+                for (int i = 0; i < cactus.Count; i++)
+                    cactus[i].drawme(spriteBatch);
             }
             else if (state == Gamestate.Level3)
             {
                 Nevadasky.drawme(spriteBatch);
                 Nevadaback.drawme(spriteBatch);
                 Nevada.drawme(spriteBatch);
+                for (int i = 0; i < rock.Count; i++)
+                    rock[i].drawme(spriteBatch);
+                for (int i = 0; i < shrub.Count; i++)
+                    shrub[i].drawme(spriteBatch);
+                for (int i = 0; i < cactus.Count; i++)
+                    cactus[i].drawme(spriteBatch);
             }
             else if (state == Gamestate.Level4)
             {
                 Newmexicosky.drawme(spriteBatch);
                 Newmexicoback.drawme(spriteBatch);
                 Newmexico.drawme(spriteBatch);
+                for (int i = 0; i < rock.Count; i++)
+                    rock[i].drawme(spriteBatch);
+                for (int i = 0; i < shrub.Count; i++)
+                    shrub[i].drawme(spriteBatch);
+                for (int i = 0; i < cactus.Count; i++)
+                    cactus[i].drawme(spriteBatch);
             }
             else if (state == Gamestate.Level5)
             {
@@ -188,14 +322,27 @@ namespace ButchCassidyandSundanceKid
                 Boliviaclouds.drawme(spriteBatch);
                 Boliviaback.drawme(spriteBatch);
                 Bolivia.drawme(spriteBatch);
+                for (int i = 0; i < rock.Count; i++)
+                    rock[i].drawme(spriteBatch);
+                for (int i = 0; i < shrub.Count; i++)
+                    shrub[i].drawme(spriteBatch);
+                for (int i = 0; i < cactus.Count; i++)
+                    cactus[i].drawme(spriteBatch);
             }
             else if (state == Gamestate.Level6)
             {
                 Utahsky.drawme(spriteBatch);
                 Utah.drawme(spriteBatch);
+                for (int i = 0; i < rock.Count; i++)
+                    rock[i].drawme(spriteBatch);
+                for (int i = 0; i < shrub.Count; i++)
+                    shrub[i].drawme(spriteBatch);
+                for (int i = 0; i < cactus.Count; i++)
+                    cactus[i].drawme(spriteBatch);
             }
-            Horse.drawme(spriteBatch, gameTime);
-            
+            horse.drawme(spriteBatch, gameTime);
+            #endregion
+
             spriteBatch.End();
 
 

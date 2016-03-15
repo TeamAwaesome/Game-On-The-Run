@@ -29,3 +29,71 @@ H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid
 H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoback.xnb
 H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicosky.xnb
 H:\Course Work\Graded Unit\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingback.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\America-map.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse(RunningState).xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\lawmen and nativeAmericans(Riding State).xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\mexicans-and-bountyHunters(Riding-State).xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\playerCharacters(RidingState).xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\rock(Obstacle).xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse_sprite.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\utahBackground.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahground.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Butch-on-Horse(OriginalSize).xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\EXPLOSIONS.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahsky.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingsky.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadasky.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviasky.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaclouds.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingground.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Bolivia.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaback.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaback.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaground.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoground.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoback.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicosky.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingback.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\ButchCassidyandSundanceKid.exe
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\ButchCassidyandSundanceKid.pdb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.csprojResolveAssemblyReference.cache
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.exe
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.pdb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Cactusfixed.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\rockfixed.xnb
+c:\College\Graded unit\Code\Ross\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Shrubfixed.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.csprojResolveAssemblyReference.cache
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.exe
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\obj\x86\Debug\ButchCassidyandSundanceKid.pdb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\America-map.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse(RunningState).xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\lawmen and nativeAmericans(Riding State).xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\mexicans-and-bountyHunters(Riding-State).xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\playerCharacters(RidingState).xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\rock(Obstacle).xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Horse_sprite.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\utahBackground.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahground.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Butch-on-Horse(OriginalSize).xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\EXPLOSIONS.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Utahsky.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingsky.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadasky.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviasky.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaclouds.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingground.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Bolivia.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Boliviaback.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaback.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Nevadaground.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoground.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicoback.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Newmexicosky.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Wyomingback.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Cactusfixed.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\rockfixed.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\Content\Shrubfixed.xnb
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\ButchCassidyandSundanceKid.exe
+H:\Graded Unit\Code\My code\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\ButchCassidyandSundanceKid\bin\x86\Debug\ButchCassidyandSundanceKid.pdb

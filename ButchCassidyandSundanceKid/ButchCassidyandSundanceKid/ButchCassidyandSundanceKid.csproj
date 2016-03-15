@@ -108,11 +108,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Background_Ground.cs" />
+    <Compile Include="Cactus.cs" />
     <Compile Include="Obstacle.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />
+    <Compile Include="Rock.cs" />
+    <Compile Include="Shrub.cs" />
     <Compile Include="StaticSprite.cs" />
   </ItemGroup>
   <ItemGroup>
